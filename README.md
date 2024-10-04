@@ -1,5 +1,5 @@
 # 💫 About Me:
-En formation FullStack à Ada tech School (Bac +3 concepteur<br>développeur d'application).<br>Je recherche activement une opportunité d'alternance pour une<br>année à partir de juin 2024.<br>j’aime travailler en équipe et résoudre des problèmes, affinité<br>particulière pour le backend.
+En Alternance chez SOLUXAN / ADA tech school j’aime travailler en équipe et résoudre des problèmes, affinité<br>particulière pour le backend.
 
 # 🚀 Portfolio:
 https://portfolio-arthur-michailesco.netlify.app/#portfolio
